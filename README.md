@@ -2,7 +2,7 @@
 
 Supervisor: Dr. Sanam Narejo.
 
-Project BY 18CS12. 18CS108, 18CS36
+Project BY 18CS12, 18CS108, 18CS36
 
 
 We have used DEAP DATASET for training our models.

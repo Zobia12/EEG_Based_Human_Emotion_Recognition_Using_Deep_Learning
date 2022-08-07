@@ -1,6 +1,7 @@
 # IDENTIFICATION-OF-HUMAN-EMOTIONS-FROM-EEG-SIGNAL-USING-DEEP-LEARNING-MODEL
 
-Supervisor: Dr. Sanam Narejo
+Supervisor: Dr. Sanam Narejo.
+
 Project BY 18CS12. 18CS108, 18CS36
 
 

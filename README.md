@@ -6,5 +6,5 @@ Project BY 18CS12, 18CS108, 18CS36
 
 
 We have used DEAP DATASET for training our models.
-We have trained completely four models in our project i.e., RNN with GRU, KNN,CNN AND LSTM.
+We have trained completely four models in our project i.e., SVM, KNN, CNN AND LSTM.
 
